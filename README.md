@@ -76,6 +76,7 @@ $$
 $$
 
 The recovered symbols are then detected using minimum Euclidean distance from the QPSK constellation, followed by bit demapping. The system performance is finally evaluated in terms of **Bit Error Rate (BER)** for different values of $E_b/N_0$.
+![System model](https://github.com/jyotiamber456-lgtm/Performance-analysis-of-a-2x2-MIMO-System-using-QPSK-Modulation-with-ZF-Equlizer/blob/main/System%20Model.png)
 ## 🔄 Simulation Workflow
 
 The simulation follows a sequential digital communication process, starting from random binary data generation and ending with BER evaluation. The complete workflow is:
