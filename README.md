@@ -110,7 +110,7 @@ Rayleigh Fading Channel
 
 The simulated BER performance of the 2×2 MIMO system is presented in the figure below.
 
-![BER Performance](figures/BER_vs_EbN0.png)
+![BER Performance](https://github.com/jyotiamber456-lgtm/Performance-analysis-of-a-2x2-MIMO-System-using-QPSK-Modulation-with-ZF-Equlizer/blob/main/Screenshot%202026-08-13%20193735.png)
 ## ▶️ How to Run
 
 1. Clone or download this repository.
